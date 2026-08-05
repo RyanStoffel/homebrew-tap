@@ -1,6 +1,6 @@
 cask "caffeine-app" do
-  version "1.0.0"
-  sha256 "f4d1337c41b1a323cec901dfac1a3abf6ad3c3a98729987684b1be277f513403"
+  version "1.1.0"
+  sha256 "326a3f820753c20c74b5725cbd92e66f61bead6dfeaf64ea7a0a86b91678399c"
 
   url "https://github.com/RyanStoffel/caffeine/releases/download/v#{version}/Caffeine.zip"
   name "Caffeine"
