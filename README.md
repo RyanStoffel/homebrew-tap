@@ -7,3 +7,9 @@ Homebrew tap for Ryan Stoffel's macOS software.
 ```sh
 brew install ryanstoffel/tap/caffeine
 ```
+
+## Install Tidy
+
+```sh
+brew install ryanstoffel/tap/tidy
+```
