@@ -1,6 +1,6 @@
 cask "tidy" do
-  version "1.0.0"
-  sha256 "1704544347a830cf7c628ff888dc9846ef1d2b502e5c68834a033d20d385ab9a"
+  version "1.1.0"
+  sha256 "db0f7e076e35b1e28126abb2bdd94786625c746fa91cf2e8af67b3bbcb25e278"
 
   url "https://github.com/RyanStoffel/tidy/releases/download/v#{version}/Tidy.zip"
   name "Tidy"
